@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://dms-o3lk.vercel.app/api",
+  baseURL: "https://dms-zeta-virid.vercel.app/api",
 });
 
 export default api;
